@@ -1,5 +1,5 @@
 ## First https://github.com/CanarioEchazu/RepositorioHenry
-## Previuos https://github.com/CanarioEchazu/prep-course2
+
 ## Next https://github.com/CanarioEchazu/Modulo-I-
 ## Last  https://github.com/CanarioEchazu/SoyHenryLast
 
